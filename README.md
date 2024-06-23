@@ -9,6 +9,7 @@ A tool for browsing and managing Pathfinder: Wrath of the Righteous mods and the
 
 ## Features
 
+
 * Browse mods hosted on Nexus and GitHub
 * Detects out of date mods
 * Automatically installs mods hosted on GitHub
